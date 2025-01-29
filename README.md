@@ -34,7 +34,7 @@ To set up the project environment, follow these steps:
 1- Clone this project repository:
 
 ```
-https://github.com/aw99d/Fake-Store.git
+git clone https://github.com/aw99d/Fake-Store.git
 ```
 
 2-Go to project path
